@@ -2,7 +2,7 @@
 
 ## SAS 360 SOLUTIONS - Workflow Module
 
-> **Status: canonical.** This is the actively maintained client for the Workflow API.
+> **Status: archived.** This repository is a retained historical/archived reference client for the Workflow API and is no longer actively developed.
 
 This repository provides a Python client for SAS Customer Intelligence 360 Workflow APIs.
 
@@ -30,8 +30,8 @@ The Workflow module provides `CI360WorkflowBase`, a REST client for managing CI3
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mnelson3/sas-ci360-sol-workflow.git
-   cd sas-ci360-sol-workflow
+   git clone https://github.com/mnelson3/sas-ci360-sol-workflow-archived.git
+   cd sas-ci360-sol-workflow-archived
    ```
 
 2. Install the package and its dependencies:
